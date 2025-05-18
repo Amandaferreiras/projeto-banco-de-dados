@@ -1,10 +1,10 @@
 # Sistema de Gerenciamento de Vendas
 
-Este projeto tem como objetivo modelar e implementar um banco de dados relacional para um sistema de gerenciamento de vendas. A solução abrange o controle de funcionários, clientes, fornecedores, produtos, vendas e itens das vendas, possibilitando uma estrutura robusta e consistente para armazenamento e consulta de dados comerciais.
+Este projeto tem como objetivo modelar e implementar um banco de dados relacional para um sistema de gerenciamento de vendas. Envolve o controle de funcionários, clientes, fornecedores, produtos, vendas e itens das vendas, possibilitando uma estrutura consistente para armazenamento e consulta de dados comerciais.
 
 ## Estrutura do Projeto
 
-O banco de dados é composto pelas seguintes entidades principais:
+Entidades principais:
 
 - **Funcionários**: responsáveis por realizar as vendas.
 - **Clientes**: realizam compras no sistema.
