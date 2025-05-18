@@ -15,13 +15,7 @@ Entidades principais:
 
 ## Diagrama MER e DER
 
-### Modelo Entidade-Relacionamento (MER)
-
-![MER](./01f00a7b-3b24-4099-bd2e-ca323cd88223.png)
-
-### Diagrama Entidade-Relacionamento (DER)
-
-![DER](./e0d52afb-3a45-4aa0-8714-1775cb002dca.png)
+Os diagramas MER e DER estão anexados acima :)
 
 ## Estrutura de Tabelas
 
