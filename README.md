@@ -44,8 +44,8 @@ O script também inclui comandos de `SELECT`, `UPDATE` e `DELETE` para manipula�
   - Draw.io (diagrams.net)
 - **Linguagem SQL**: para criação e manipulação das tabelas e registros
 
-## Como Executar Localmente
+## Para executar:
 
-1. Clone este repositório:
+Copie este repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
